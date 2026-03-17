@@ -10,6 +10,8 @@ A smart medicine container built on the ESP32 microcontroller that reminds patie
 
 > Developed as part of the **EN2853 – Embedded Systems and Applications** module (Programming Assignment 2).
 
+<img src="https://github.com/AkinduID/Smart-MediBox/blob/main/docs/medibox.png"/>
+
 ---
 
 ## Table of Contents
