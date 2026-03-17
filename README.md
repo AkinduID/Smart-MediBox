@@ -8,7 +8,7 @@
 
 A smart medicine container built on the ESP32 microcontroller that reminds patients when to take their medicine. The device displays the current time, monitors temperature and humidity, and adjusts a servo-driven shading panel based on ambient light intensity. It can be fully monitored and controlled through a Node-RED dashboard over MQTT.
 
-> Developed as part of the **EN2853 – Embedded Systems and Applications** module (Programming Assignment 2).
+> Developed as part of the **EN2853 – Embedded Systems and Applications** module.
 
 <img src="https://github.com/AkinduID/Smart-MediBox/blob/main/docs/medibox.png"/>
 
